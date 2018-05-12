@@ -1,6 +1,9 @@
 _repo: Les-grandes-journ-es-de-la-Constituante_9818
-_version: 0.0.1
+_version: 0.1.0
 alternative_title: Les grandes journees de la Constituante
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Mathiez, Albert
@@ -11,6 +14,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3153
     wikipedia: http://en.wikipedia.org/wiki/Albert_Mathiez
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/9818#Les-grandes-journ-es-de-la-Constituante
 gutenberg_bookshelf: FR Histoire
 gutenberg_issued: '2006-02-01'
 gutenberg_type: Text
